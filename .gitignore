@@ -1,0 +1,6 @@
+books
+venv
+__pycache__
+pg_catalog.csv
+cleaned_catalog.csv
+cache
